@@ -9,4 +9,12 @@ Tab (Tablature)  -- Tab, nota okumak yerine geliştirilmiş bir tekniktir. Genel
   :A|-------5. Tel-----------------------------|  La teli
   :E|-6. Tel-----------------------------------|  Kalın Mi teli
   
+ internetten tab bul çal... :)
  
+ Hammer On ( çekiçlemek )
+ Gitarda tele birkere vurup, sol elle nota basılı iken daha ince notaya geçilir. Tabda "h" harfi ile gösterilir.
+ https://www.youtube.com/watch?v=FPUfLzOjw-g
+ (Parmağımız 2. notadayken tele vururuz ve bir daha vurmadan parmağımızla 4. notaya geçeriz.)
+ e|------2h4--|
+  B|--2h4------|
+  G|-----------|
