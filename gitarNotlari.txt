@@ -1,0 +1,12 @@
+GİTAR---
+notlar aşağı doğru kalınlaşır.
+Tab (Tablature)  -- Tab, nota okumak yerine geliştirilmiş bir tekniktir. Genellikle gitar için kullanılır ve çizgiler teli, notanın yerine yazılan sayılar için özel bir nota sistemidir. Tab, bir gitar nota sistemi özelliği olarak var olmuştur.
+
+ :e|-------------------------------1. Tel-----|  İnce Mi teli
+  :B|-------------------------2. Tel-----------|  Si teli
+  :G|-------------------3. Tel-----------------|  Sol teli
+  :D|-------------4. Tel-----------------------|  Re teli
+  :A|-------5. Tel-----------------------------|  La teli
+  :E|-6. Tel-----------------------------------|  Kalın Mi teli
+  
+ 
