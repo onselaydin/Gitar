@@ -11,10 +11,42 @@ Tab (Tablature)  -- Tab, nota okumak yerine geliştirilmiş bir tekniktir. Genel
   
  internetten tab bul çal... :)
  
- Hammer On ( çekiçlemek )
+ Hammer On ( çekiçlemek )------------
  Gitarda tele birkere vurup, sol elle nota basılı iken daha ince notaya geçilir. Tabda "h" harfi ile gösterilir.
  https://www.youtube.com/watch?v=FPUfLzOjw-g
  (Parmağımız 2. notadayken tele vururuz ve bir daha vurmadan parmağımızla 4. notaya geçeriz.)
  e|------2h4--|
   B|--2h4------|
   G|-----------|
+  
+la five chords --------------
+la beşli akortu
+https://www.youtube.com/watch?v=EItQOb7PfjQ
+
+distortion -- çok bağıran kanal :=)
+clean kanal
+
+Akort yapmak----
+GuitarTuna play storedan bul kur.
+https://www.youtube.com/watch?v=A3pToZQynVA
+
+gitar başlangıç
+https://www.youtube.com/watch?v=zqLcDzowigY
+https://www.youtube.com/watch?v=zqLcDzowigY
+
+Gitar tel harfleri
+1. nota- La: A
+2. nota- Si: B
+3. nota- Do: C
+4. nota- Re: D
+5. nota- Mi: E
+6. nota- Fa: F
+7. nota- Sol: G
+
+Gitar Telleri üstten aşağı(6 telimiz var)
+E - (Mi) kalın mi
+A - (La)
+D - (Re)
+G - (Sol)
+B - (Si)
+e - (mi) ince mi

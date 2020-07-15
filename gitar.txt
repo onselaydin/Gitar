@@ -45,3 +45,32 @@ Not: Buraya kadar her gün her birini 5 er dk çalışmalısın. Refleks bilgisi
 
 http://www.eraykaymaz.com/gitarla-nasil-calinir/parmak-tel-ve-perde-isimleri/
 
+6 tel ve 21 perde var. = 126 farklı ses yapar.
+
+--Google metronom ile 4 parmak alıştırmalarını yap.
+
+-- GAM oluşturmak --
+# (diyez) sesi yarım ses inceltir. 1/2
+b (bemol) sesi yarım ses kalınlaştırır. 1/2
+
+Batı müziği 12 sesli müziktir.
+CC#DD#EFF#GG#AA#B(C)(C#)(D)
+2Tam1Yarım3Tam1Yarım
+
+CDbDEbEFGbGAbABbB(C)(Db)(D)  küçük b bemoldür.
+Bunların hepsi ayrı bir frekansdır.
+
+C D E F G A B (C) Bunlar Do major dür. Majör temel demektir.
+Do majörü ilkokuldan beri öğretirler.
+
+E F# G# A B C# D# (E)  Buda Mi major
+Mi Fa La Si Do Re Mi
+
+Bb C D Eb F G A (Bb) buda si bemol majör
+
+-- AKOR--
+Tanım: Birbirine yakın olan en az 3 sesin tınlamasından oluşan ses bütünlüğüdür.
+Akorlar binanın temelini oluşturan kısımlardır.
+
+Polifonik enstruman 2 adetdir. Tellide gitar. Tuşluda piyano
+Monofolik = monofolik...
