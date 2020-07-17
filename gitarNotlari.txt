@@ -1,6 +1,11 @@
 GİTAR---
+
+--Pena Egsersizi --
+https://www.youtube.com/watch?v=o0Ztky-0N_Y
+
 notlar aşağı doğru kalınlaşır.
 Tab (Tablature)  -- Tab, nota okumak yerine geliştirilmiş bir tekniktir. Genellikle gitar için kullanılır ve çizgiler teli, notanın yerine yazılan sayılar için özel bir nota sistemidir. Tab, bir gitar nota sistemi özelliği olarak var olmuştur.
+https://www.youtube.com/watch?v=nw5a-8lfy_o
 
  :e|-------------------------------1. Tel-----|  İnce Mi teli
   :B|-------------------------2. Tel-----------|  Si teli
@@ -50,3 +55,6 @@ D - (Re)
 G - (Sol)
 B - (Si)
 e - (mi) ince mi
+
+--- Kapo Nedir ---
+https://www.youtube.com/watch?v=y4k_uBM3Bfk
