@@ -45,5 +45,59 @@ Not: Buraya kadar her gün her birini 5 er dk çalışmalısın. Refleks bilgisi
 
 http://www.eraykaymaz.com/gitarla-nasil-calinir/parmak-tel-ve-perde-isimleri/
 
-https://www.senkop.com.tr/urun/mooer-ge100-guitar-multi-effects-prosesor?gclid=CjwKCAjwr7X4BRA4EiwAUXjbt-LC29xQQtV8Zx5PmP_xCd4PJtRjoBCyA4xud48fhoCswpjsedzF6BoCgRQQAvD_BwE
+6 tel ve 21 perde var. = 126 farklı ses yapar.
 
+--Google metronom ile 4 parmak alıştırmalarını yap.
+
+-- GAM oluşturmak --
+# (diyez) sesi yarım ses inceltir. 1/2
+b (bemol) sesi yarım ses kalınlaştırır. 1/2
+
+Batı müziği 12 sesli müziktir.
+CC#DD#EFF#GG#AA#B(C)(C#)(D)
+2Tam1Yarım3Tam1Yarım
+
+CDbDEbEFGbGAbABbB(C)(Db)(D)  küçük b bemoldür.
+Bunların hepsi ayrı bir frekansdır.
+
+C D E F G A B (C) Bunlar Do major dür. Majör temel demektir.
+Do majörü ilkokuldan beri öğretirler.
+
+E  F# G# A  B  C# D# (E)  Buda Mi major
+Mi Fa La Si Do Re Mi
+
+Bb C D Eb F G A (Bb) buda si bemol majör
+
+-- AKOR--
+Tanım: Birbirine yakın olan en az 3 sesin tınlamasından oluşan ses bütünlüğüdür.
+Akorlar binanın temelini oluşturan kısımlardır.
+
+Polifonik enstruman 2 adetdir. Tellide gitar. Tuşluda piyano
+Monofolik = monofolik...
+
+4 - 4 lük folk ritim
+tüm tellere üstten alta vur. 1234 1234
+1. vuruşu atla 1234 1234
+
+Oktav : Baştak do ve sonraki do ya oktav denir. 8 sayısına denk gelen birimdir
+mi la re sol si mi
+E  A  D  G   B  e
+
+iyiki doğdun tabı
+
+e				| 
+B         1 0	|         3 1
+G 0 0 2 0 		| 0 0 2 0
+D				|
+A				|
+E				|
+
+
+e					|
+B					|
+G					|
+D					|
+A 0 2 3 0 2 3 0 2 3	|	  0		0	3 2
+E					| 1 3   1 3   3
+
+https://www.senkop.com.tr/urun/mooer-ge100-guitar-multi-effects-prosesor?gclid=CjwKCAjwr7X4BRA4EiwAUXjbt-LC29xQQtV8Zx5PmP_xCd4PJtRjoBCyA4xud48fhoCswpjsedzF6BoCgRQQAvD_BwE
