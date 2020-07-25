@@ -16,6 +16,38 @@ https://www.youtube.com/watch?v=nw5a-8lfy_o
   
  internetten tab bul çal... :)
  
+ Do	Do# Re Re# Mi Fa Fa# Sol Sol# La La# Si
+ C	c#	D  D#  E  F  F#  G   G#	  A  A#  B
+ en üstteki tel mi(E) - 1.perdeye basarsan fa(F)
+						2.perdeye basarak fa#(F#)
+						3.perdeye basarak sol(G)
+						4.perdeye basarak sol#(G#)
+						5.perdeye basarak la(A)
+						6.perdeye basarak la#(A#)
+						7.perdeye basarak si(B)
+						8.perdeye basarak Do(C)
+						9.perdeye basarak Do#(c#)
+					   10.perdeye basarak Re(D)
+					   11.perdeye basarak Re#(D#)
+					   12.perdeye basarak Mi
+
+Gitar Telleri üstten aşağı(6 telimiz var)
+E - (Mi) kalın mi
+A - (La)
+D - (Re)
+G - (Sol)
+B - (Si)
+e - (mi) ince mi
+					   
+notalar
+1. nota- La: A
+2. nota- Si: B
+3. nota- Do: C
+4. nota- Re: D
+5. nota- Mi: E
+6. nota- Fa: F
+7. nota- Sol: G
+
  Hammer On ( çekiçlemek )------------
  Gitarda tele birkere vurup, sol elle nota basılı iken daha ince notaya geçilir. Tabda "h" harfi ile gösterilir.
  https://www.youtube.com/watch?v=FPUfLzOjw-g
@@ -34,27 +66,12 @@ clean kanal
 Akort yapmak----
 GuitarTuna play storedan bul kur.
 https://www.youtube.com/watch?v=A3pToZQynVA
+https://www.youtube.com/watch?v=85WG1te1_g4  (bu daha iyi gibi)
 
 gitar başlangıç
 https://www.youtube.com/watch?v=zqLcDzowigY
 https://www.youtube.com/watch?v=zqLcDzowigY
 
-notalar
-1. nota- La: A
-2. nota- Si: B
-3. nota- Do: C
-4. nota- Re: D
-5. nota- Mi: E
-6. nota- Fa: F
-7. nota- Sol: G
-
-Gitar Telleri üstten aşağı(6 telimiz var)
-E - (Mi) kalın mi
-A - (La)
-D - (Re)
-G - (Sol)
-B - (Si)
-e - (mi) ince mi
 
 --- Kapo Nedir ---
 https://www.youtube.com/watch?v=y4k_uBM3Bfk
@@ -78,6 +95,13 @@ https://www.youtube.com/watch?v=vRLWiYzfQEY
 
 metronumla alıştırmalar
 https://www.youtube.com/watch?v=p2YnYctqDgE
+
+Gamın Formülü
+2T 1Y 3T 1Y
+T=Tam
+Y=Yarım
+
+
 
 pentatonik gam - la minör (penta-beş, tonik-nota)
 https://www.youtube.com/watch?v=-lNPy3DZLMw
