@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=nw5a-8lfy_o
 					   10.perdeye basarak Re(D)
 					   11.perdeye basarak Re#(D#)
 					   12.perdeye basarak Mi
+üstten 2. tel (La) teli
+		1. perde la,2.perde la#, 3.perde si, 4.perde do, 5. do#, 6. re, 7.re# 8.mi ....
+
 
 Gitar Telleri üstten aşağı(6 telimiz var)
 E - (Mi) kalın mi
@@ -38,6 +41,14 @@ D - (Re)
 G - (Sol)
 B - (Si)
 e - (mi) ince mi
+
+Aşağıdan Yukarı
+e - mi
+B - si
+G - sol
+D - Re
+A - La
+E - Mi Kalın
 					   
 notalar
 1. nota- La: A
